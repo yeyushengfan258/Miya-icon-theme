@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.191" y="1.191" width="14.551" height="14.551" ry="1.3229" fill="#ecc230" stroke-width=".9166"/>
- <text x="1.9215858" y="10.528329" fill="#000000" font-family="'思源黑体 CN'" font-size="5.5725px" font-weight="bold" stroke-width=".13931" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1.9215858" y="10.528329" font-family="'思源黑体 CN'" font-size="5.5725px" font-weight="bold" stroke-width=".13931" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">2048</tspan></text>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1438" x1="3.4273" x2="7.9001" y1="4.404" y2="4.404" gradientTransform="translate(-.15899)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5c3bfe" offset="0"/>
+   <stop stop-color="#1fbbff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient10200" x1="9.3381" x2="13.712" y1="4.404" y2="4.404" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#20b9ff" offset="0"/>
+   <stop stop-color="#7705fd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient15202" x1="3.221" x2="8.1064" y1="12.529" y2="12.529" gradientTransform="translate(-.15899)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7801ff" offset="0"/>
+   <stop stop-color="#ff0777" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient32819" x1="9.3571" x2="13.693" y1="12.529" y2="12.529" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff116e" offset="0"/>
+   <stop stop-color="#fcad01" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(.079498)">
+  <path d="m3.3393 7.7498h4.4018v-1.1005h-1.4199c-0.31061 0-0.74547 0.035498-1.0827 0.07987 1.1981-1.1803 2.192-2.4583 2.192-3.6475 0-1.2247-0.82534-2.0234-2.0678-2.0234-0.89634 0-1.4821 0.34611-2.0944 1.0028l0.72772 0.70109c0.32836-0.36386 0.71884-0.67447 1.1981-0.67447 0.6301 0 0.98508 0.40823 0.98508 1.0561 0 1.0206-1.0472 2.2541-2.8399 3.8516z" fill="url(#linearGradient1438)"/>
+  <path d="m11.525 7.7498c1.3156 0 2.1869-1.1501 2.1869-3.3806 0-2.2131-0.87128-3.3109-2.1869-3.3109-1.3156 0-2.1869 1.0891-2.1869 3.3109 0 2.2305 0.87128 3.3806 2.1869 3.3806zm0-1.002c-0.55762 0-0.97584-0.55762-0.97584-2.3786 0-1.7948 0.41822-2.3263 0.97584-2.3263 0.55762 0 0.96712 0.53148 0.96712 2.3263 0 1.821-0.4095 2.3786-0.96712 2.3786z" fill="url(#linearGradient10200)"/>
+  <path d="m5.9156 15.875h1.2372v-1.7338h0.79467v-1.0114h-0.79467v-3.9462h-1.5984l-2.4924 4.0546v0.90303h2.8536zm0-2.7452h-1.5622l1.0385-1.6616c0.18964-0.36121 0.37024-0.73145 0.53279-1.0927h0.045148c-0.027095 0.39733-0.054189 1.0024-0.054189 1.3907z" fill="url(#linearGradient15202)"/>
+  <path d="m11.521 15.875c1.2999 0 2.1723-0.75028 2.1723-1.7274 0-0.88114-0.48855-1.4046-1.0905-1.7274v-0.04362c0.41876-0.30535 0.8288-0.83752 0.8288-1.4744 0-1.0295-0.73283-1.7187-1.8757-1.7187-1.1254 0-1.9455 0.66304-1.9455 1.7099 0 0.68049 0.35769 1.169 0.85497 1.5267v0.04362c-0.60197 0.31407-1.108 0.85497-1.108 1.6838 0 1.012 0.91604 1.7274 2.1636 1.7274zm0.40131-3.8125c-0.67176-0.27045-1.1778-0.56707-1.1778-1.169 0-0.52345 0.34897-0.81135 0.78518-0.81135 0.5409 0 0.85497 0.37514 0.85497 0.89859 0 0.38386-0.14831 0.759-0.46238 1.0818zm-0.37514 2.9052c-0.60197 0-1.0818-0.37514-1.0818-0.95966 0-0.48856 0.24428-0.91604 0.59324-1.2039 0.83752 0.35769 1.4395 0.62814 1.4395 1.2999 0 0.55835-0.40131 0.8637-0.95094 0.8637z" fill="url(#linearGradient32819)"/>
+ </g>
 </svg>
