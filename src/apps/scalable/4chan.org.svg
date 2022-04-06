@@ -5,21 +5,37 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
  <defs>
-  <linearGradient id="linearGradient1001" x1="49.441" x2="15.077" y1="49.048" y2="14.685" gradientTransform="matrix(1.5738 0 0 1.5738 -18.36 -18.361)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#17aa61" offset="0"/>
-   <stop stop-color="#0d4d28" offset="1"/>
+  <linearGradient id="linearGradient1486" x1="9.1005" x2="32.075" y1="14.448" y2="25.935" gradientTransform="matrix(.92344 0 0 .93172 2.4589 2.2026)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0260a1" offset="0"/>
+   <stop stop-color="#12a8ac" offset=".45487"/>
+   <stop stop-color="#fdff02" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient2638" x1="1.5979" x2="62.452" y1="62.151" y2="1.6145" gradientTransform="matrix(.91803 0 0 .91803 2.623 2.623)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#134629" offset="0"/>
-   <stop stop-color="#2ca75d" offset="1"/>
+  <linearGradient id="linearGradient21158" x1="37.922" x2="49.409" y1="30.944" y2="7.9695" gradientTransform="matrix(.92344 0 0 .93172 2.4589 2.2026)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fdfe05" offset="0"/>
+   <stop stop-color="#ff8600" offset=".6"/>
+   <stop stop-color="#fe0e00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient39121" x1="32.473" x2="55.447" y1="38.373" y2="49.86" gradientTransform="matrix(.92344 0 0 .93172 2.4589 2.2026)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#55f2e8" offset="0"/>
+   <stop stop-color="#388fcd" offset=".6"/>
+   <stop stop-color="#461b7d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient58856" x1="26.805" x2="14.297" y1="32.91" y2="56.031" gradientTransform="matrix(.92344 0 0 .93172 2.4589 2.2026)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd00fd" offset="0"/>
+   <stop stop-color="#8511be" offset=".6"/>
+   <stop stop-color="#2530b2" offset="1"/>
   </linearGradient>
  </defs>
  <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
  <circle cx="-149.15" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
- <path d="m42.329 4.459c-2.8311 0-5.7377 3.9149-5.7377 11.476 0 6.8853 2.295 11.476 2.295 11.476s18.361-2.295 18.361-11.476c0-6.8853-6.4651-12.477-9.1804-6.8853-1.0251-3.0755-2.9965-4.5903-5.7377-4.5903zm-26.394 2.295c-6.8853 0-12.477 6.4651-6.8853 9.1804-3.0755 1.0251-4.5903 2.9965-4.5903 5.7377 0 2.8311 3.9149 5.7377 11.476 5.7377 6.8853 0 11.476-2.295 11.476-2.295s-2.295-18.361-11.476-18.361zm9.1804 29.836s-18.361 2.295-18.361 11.476c0 6.8853 6.4651 12.477 9.1804 6.8853 1.0251 3.0755 2.9965 4.5903 5.7377 4.5903 2.8311 0 5.7377-3.9149 5.7377-11.476 0-6.8853-1.4789-11.593-1.4789-11.593zm22.95 0c-6.8853 0-11.476 2.295-11.476 2.295s2.295 18.361 11.476 18.361c6.8853 0 12.477-6.4651 6.8853-9.1804 3.0755-1.0251 4.5903-2.9965 4.5903-5.7377 0-2.8311-3.9149-5.7377-11.476-5.7377z" fill="url(#linearGradient1001)" stroke="url(#linearGradient2638)" stroke-width=".91803"/>
+ <g>
+  <path d="m17.715 2.9609c-8.6151 0-15.612 8.0886-8.6152 11.486-3.8482 1.2826-5.7422 3.7498-5.7422 7.1797 0 3.5424 4.8988 7.1797 14.359 7.1797 8.6151 0 14.357-2.8711 14.357-2.8711s-2.87-22.975-14.357-22.975h-0.001953z" fill="url(#linearGradient1486)"/>
+  <path d="m42.229 2.2246c-3.5424 0-7.1777 4.8988-7.1777 14.359 0 8.6151 2.8711 14.359 2.8711 14.359s22.975-2.872 22.975-14.359c0-8.6151-8.0906-15.612-11.488-8.6152-1.2826-3.8482-3.7498-5.7422-7.1797-5.7422v-0.0019531z" fill="url(#linearGradient21158)"/>
+  <path d="m46.832 35.502c-8.6151 0-14.359 2.8711-14.359 2.8711s2.872 22.975 14.359 22.975c8.6151 0 15.612-8.0906 8.6152-11.488 3.8482-1.2826 5.7422-3.7478 5.7422-7.1777 0-3.5424-4.8968-7.1797-14.357-7.1797z" fill="url(#linearGradient39121)"/>
+  <path d="m26.805 32.91-1.0215 0.14648s-22.973 2.872-22.973 14.359c0 8.6151 8.0886 15.612 11.486 8.6152 1.2826 3.8482 3.7498 5.7441 7.1797 5.7441 3.5424 0 7.1777-4.8988 7.1777-14.359 0-8.6151-1.8496-14.506-1.8496-14.506z" fill="url(#linearGradient58856)"/>
+ </g>
 </svg>
