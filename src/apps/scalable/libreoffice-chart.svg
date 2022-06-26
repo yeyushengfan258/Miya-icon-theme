@@ -1,10 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="opacity:0.2" d="m 10,56 v 2 c 0,1.662 1.338,3 3,3 h 38 c 1.662,0 3,-1.338 3,-3 v -2 c 0,1.662 -1.338,3 -3,3 H 13 c -1.662,0 -3,-1.338 -3,-3 z"/>
- <path style="fill:#6b5733" d="M 54,57 V 7 C 54,5.338 52.662,4 51,4 H 13 c -1.662,0 -3,1.338 -3,3 v 50 c 0,1.662 1.338,3 3,3 h 38 c 1.662,0 3,-1.338 3,-3 z"/>
- <path style="opacity:0.1" d="M 14,9 V 57 H 50 V 25.828 L 33.172,9 Z M 38.828,9 50,20.172 V 9 Z"/>
- <path style="fill:#f5f5f5" d="M 14,8 V 56 H 50 V 24.828 L 33.172,8 Z M 38.828,8 50,19.1718 V 8 Z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 13 4 C 11.338 4 10 5.338 10 7 L 10 8 C 10 6.338 11.338 5 13 5 L 51 5 C 52.662 5 54 6.338 54 8 L 54 7 C 54 5.338 52.662 4 51 4 L 13 4 z"/>
- <rect style="opacity:0.5" width="6" height="14" x="19" y="34"/>
- <rect style="opacity:0.5" width="6" height="20" x="29" y="28"/>
- <rect style="opacity:0.5" width="6" height="10" x="39" y="38"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient18235" x1="-42.856" x2="-42.856" y1="36.222" y2="6.4276" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf5725" offset="0"/>
+   <stop stop-color="#c48827" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11984" x1="31.735" x2="31.735" y1="25.432" y2="45.502" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dd8c55" offset="0"/>
+   <stop stop-color="#bf5725" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(71.723 -1.373)">
+  <path d="m-57.723 6.4277c-1.6568 1.657e-4 -2.9998 1.3432-3 3v48c1.66e-4 1.6568 1.3432 2.9998 3 3h36c1.6568-1.66e-4 2.9998-1.3432 3-3v-26.832a2.9974 2.9974 0 0 0 0-2e-3 2.9974 2.9974 0 0 0-2.998-2.9941 2.9974 2.9974 0 0 0-2.9961 2.9941h-0.0059v23.834h-30v-42h11.867v-0.0059a2.9974 2.9974 0 0 0 2.9961-2.9961 2.9974 2.9974 0 0 0-2.9961-2.998z" color="#000000" fill="url(#linearGradient18235)" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path d="m-32.895 6.3184a3.0003 3.0003 0 0 0-2.1211 5.1211l11.172 11.172a3.0003 3.0003 0 0 0 5.1211-2.1211v-11.172a3.0003 3.0003 0 0 0-3-3z" color="#000000" fill="#b27724" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ </g>
+ <g transform="translate(.17315)" fill="url(#linearGradient11984)">
+  <rect x="20.516" y="31.627" width="6" height="14" ry="3"/>
+  <rect x="28.827" y="25.627" width="6" height="20" ry="3"/>
+  <rect x="37.138" y="35.627" width="6" height="10" ry="3"/>
+ </g>
 </svg>

@@ -1,8 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="opacity:0.2" d="m 10,56 0,2 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 l 0,-2 c 0,1.662 -1.338,3 -3,3 l -38,0 c -1.662,0 -3,-1.338 -3,-3 z"/>
- <path style="fill:#3e50b4" d="M 54,57 54,7 C 54,5.338 52.662,4 51,4 L 13,4 c -1.662,0 -3,1.338 -3,3 l 0,50 c 0,1.662 1.338,3 3,3 l 38,0 c 1.662,0 3,-1.338 3,-3 z"/>
- <path style="opacity:0.1" d="M 14,9 14,57 50,57 50,25.828 33.172,9 14,9 Z M 38.828,9 50,20.172 50,9 38.828,9 Z"/>
- <path style="fill:#f5f5f5" d="M 14,8 14,56 50,56 50,24.828 33.172,8 14,8 Z M 38.828,8 50,19.1718 50,8 38.828,8 Z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 13 4 C 11.338 4 10 5.338 10 7 L 10 8 C 10 6.338 11.338 5 13 5 L 51 5 C 52.662 5 54 6.338 54 8 L 54 7 C 54 5.338 52.662 4 51 4 L 13 4 z"/>
- <path style="opacity:0.5" d="m 20,48.044 0,-2 16,0 0,2 z m 0,-6 0,-2 24,0 0,2 z m 0,-6 0,-2 24,0 0,2 z m 0,-6 0,-2 24,0 0,2 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient18235" x1="-42.856" x2="-42.856" y1="36.222" y2="6.4276" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1f94d2" offset="0"/>
+   <stop stop-color="#43b4e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient12534" x1="31.592" x2="31.592" y1="25.597" y2="45.622" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#64bae7" offset="0"/>
+   <stop stop-color="#1f94d2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(71.723 -1.373)">
+  <path d="m-57.723 6.4277c-1.6568 1.657e-4 -2.9998 1.3432-3 3v48c1.66e-4 1.6568 1.3432 2.9998 3 3h36c1.6568-1.66e-4 2.9998-1.3432 3-3v-26.832a2.9974 2.9974 0 0 0 0-2e-3 2.9974 2.9974 0 0 0-2.998-2.9941 2.9974 2.9974 0 0 0-2.9961 2.9941h-0.0059v23.834h-30v-42h11.867v-0.0059a2.9974 2.9974 0 0 0 2.9961-2.9961 2.9974 2.9974 0 0 0-2.9961-2.998z" color="#000000" fill="url(#linearGradient18235)" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path d="m-32.895 6.3184a3.0003 3.0003 0 0 0-2.1211 5.1211l11.172 11.172a3.0003 3.0003 0 0 0 5.1211-2.1211v-11.172a3.0003 3.0003 0 0 0-3-3z" color="#000000" fill="#2094d2" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ </g>
+ <g fill="url(#linearGradient12534)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".98">
+  <rect x="20" y="25.627" width="24" height="2" ry="1" style="font-variation-settings:'wght' 700;paint-order:stroke fill markers"/>
+  <rect x="20" y="31.627" width="24" height="2" ry="1" style="font-variation-settings:'wght' 700;paint-order:stroke fill markers"/>
+  <rect x="20" y="37.627" width="24" height="2" ry="1" style="font-variation-settings:'wght' 700;paint-order:stroke fill markers"/>
+  <rect x="20" y="43.627" width="16" height="2" ry="1" style="font-variation-settings:'wght' 700;paint-order:stroke fill markers"/>
+ </g>
 </svg>
