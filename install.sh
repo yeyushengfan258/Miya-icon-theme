@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Miya
-THEME_VARIANTS=('-black')
+THEME_VARIANTS=('-black' '-orange')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
